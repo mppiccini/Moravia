@@ -1,0 +1,39 @@
+
+@font-face {
+  font-family: 'Arvo';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Arvo'), url('http://themes.googleusercontent.com/font?kit=vvWPwz-PlZEwjOOIKqoZzA') format('truetype');
+}
+
+body{
+    font:normal normal normal 12px arial;
+    background:#555;
+}
+
+h1{
+    font:normal normal normal 34px arvo;
+    background: dodgerblue;
+    padding:4px;
+    border-radius:10px;
+}
+
+
+#respuesta{
+	color:#eee;	
+	font-size:15px;
+	border-radius:10px;
+	padding:4px;
+}
+
+#boton{
+	
+	border-style:solid;
+	border-color:gray gray;
+	padding:6px;
+	align: center;
+	font-size:20px;
+	
+}
+
+
